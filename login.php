@@ -26,8 +26,6 @@ if($user)
 		<div class='page-header'>
 			<h1>Log in</h1>
 		</div>
- 
-		<? echo "<a class='btn' href=$loginUrl>Sign In</a>"; ?>
 	</div>
 </body>
 </html>
