@@ -35,6 +35,9 @@ if(!$user)
 			</div>";
 	
 	?>
+	
+		<h3>Photos you're in that have the most likes:</h3><br />
+		
 	</div>
 </body>
 </html>
